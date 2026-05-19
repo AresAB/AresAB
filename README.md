@@ -6,7 +6,7 @@ Graphics programming is pretty fun (when it works).
 
 [Shaders](https://github.com/AresAB/shaders) - Casual testing repo where I explore small shader and graphics engine related projects
 
-[Shaders](https://github.com/AresAB/Model_Scene) - Custom model loader for OpenGL
+[Model Scene](https://github.com/AresAB/Model_Scene) - Custom model loader for OpenGL
 
 [Fact-o-Ratio](https://github.com/AresAB/Fact-o-Ratio) - Tool I made to help teach myself C, calculates ratios for implemented item recipes from the game Factorio
 
