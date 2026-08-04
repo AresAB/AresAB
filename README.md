@@ -4,7 +4,9 @@ Graphics programming is pretty fun (when it works).
 
 ## Favorite Projects
 
-[Shaders](https://github.com/AresAB/shaders) - Casual testing repo where I explore small shader and graphics engine related projects
+[Vulkan Engine](https://github.com/AresAB/First-Vulkan-Engine) - Custom Vulkan Engine I've designed to learn graphics computing principles
+
+[Shaders](https://github.com/AresAB/shaders) - Casual testing repo where I explore small shader and graphics engine related projects in OpenGL
 
 [Model Scene](https://github.com/AresAB/Model_Scene) - Custom model loader for OpenGL
 
@@ -24,6 +26,7 @@ Graphics programming is pretty fun (when it works).
 - JavaScript
 - GLSL
 - HLSL
+- Slang
 
 I'm also Scuba certified, I think that boosts my programming skills by 130%.
 
